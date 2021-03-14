@@ -1,0 +1,10 @@
+com/jaguarcode/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.jaguarcode.book.springboot.web.dto.HelloResponseDtoTest
+com/jaguarcode/book/springboot/web/HelloControllerTest.java
+ com.jaguarcode.book.springboot.web.HelloControllerTest
+com/jaguarcode/book/springboot/web/IndexControllerTest.java
+ com.jaguarcode.book.springboot.web.IndexControllerTest
+com/jaguarcode/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.jaguarcode.book.springboot.domain.posts.PostsRepositoryTest
+com/jaguarcode/book/springboot/web/PostsApiControllerTest.java
+ com.jaguarcode.book.springboot.web.PostsApiControllerTest
